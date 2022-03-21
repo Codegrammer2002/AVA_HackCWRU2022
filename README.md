@@ -15,7 +15,10 @@ Inspiration:
 
 Shreeya works as a digital accessibility assistant in the University Technology office where she makes documents and media in the Computer Science department accessible to everyone, including the differently abled, in the college. This where she got the inspiration to work on a project for the visually impaired. While discussing the idea with team members, Gautam had the idea of making something that helps them in basic activities - such as booking a doctor's appointment. The combination of these two ideas steered our project.
 What it does The software books a doctor's appointment for the individual by using speech recognition that inputs the required details(name, date of birth etc.) into the website in which the appointment is to be made.
-How we built it We created a web scraper that scrapes through a dental website which goes through every page and stores the fields that are to be entered to make an appointment. Then, the program asks uses text to speech to ask the user for audio input and the answers are entered into the input boxes to book an appointment.
+
+How we built it:
+
+We created a web scraper that scrapes through a dental website which goes through every page and stores the fields that are to be entered to make an appointment. Then, the program asks uses text to speech to ask the user for audio input and the answers are entered into the input boxes to book an appointment.
 
 Challenges:
 
